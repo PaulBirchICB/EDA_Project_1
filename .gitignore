@@ -1,0 +1,34 @@
+# R history and session files
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+
+# RStudio project files (optional to ignore)
+*.Rproj
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+~$*
+
+# OneDrive temp files
+*.tmp
+*.lnk
+*.sync
+~*
+
+# Large data files (don’t track extracted data)
+*.zip
+*.7z
+*.tar
+*.gz
+*.bz2
+*.xz
+*.rar
+household_power_consumption.txt
+
+# Plots cache (if you ever add knitr or targets)
+_cache/
+*_cache/
